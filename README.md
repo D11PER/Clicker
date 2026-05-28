@@ -1,4 +1,4 @@
-# 🖩 Simple Clicker Counter
+#  Simple Clicker Counter
 
 ![Python 3](https://img.shields.io/badge/Python-3.x-blue)
 ![tkinter](https://img.shields.io/badge/GUI-tkinter-green)
